@@ -1,1 +1,1 @@
-print("Practicing git stash")
+print("Hello from new.py")
